@@ -1,2 +1,2 @@
-def suma(a, b): 
-    return a+b
+def algoDistinto(a, b, c): 
+    return a * b - c
