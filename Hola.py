@@ -1,1 +1,2 @@
-print("Hola Aprendizes de Git")
+def suma(a, b): 
+    return a+b
